@@ -1,0 +1,36 @@
+.travelDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.travelDiv img {
+    width: 100%;
+}
+
+.travelDiv hr {
+    width: 250px;
+}
+
+.travelDiv p,
+.travelDiv h5 {
+    margin: 20px;
+}
+
+.movieHeader {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movieHeader i {
+    float: right;
+}
+
+.movieText span {
+    color: #ff7700;
+}
